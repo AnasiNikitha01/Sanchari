@@ -436,7 +436,7 @@ small{
     backdrop-filter:blur(2px);
     padding: 20px 50px 50px;
     width: 500px;
-    height: 550px;
+    height: 620px;
     margin: 0px auto;
 }
 
@@ -638,7 +638,7 @@ input::placeholder{
 }
 
 .card>p{
-    margin: 15px auto;
+    margin: 4px auto;
     text-align: center;
     font-size: medium;
 }
@@ -663,7 +663,7 @@ input::placeholder{
     border: 0px;
     font-style: italic;
     font-weight: 650;
-   margin: 10px auto;
+   margin: 44px auto;
    cursor: pointer;
 
 }
